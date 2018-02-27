@@ -1,0 +1,10 @@
+F:\车载控制器(VOBC)和区域控制器(ZC)通信模拟实验\server\server\server\bin\Debug\server.exe.config
+F:\车载控制器(VOBC)和区域控制器(ZC)通信模拟实验\server\server\server\bin\Debug\server.exe
+F:\车载控制器(VOBC)和区域控制器(ZC)通信模拟实验\server\server\server\bin\Debug\server.pdb
+F:\车载控制器(VOBC)和区域控制器(ZC)通信模拟实验\server\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+F:\车载控制器(VOBC)和区域控制器(ZC)通信模拟实验\server\server\server\obj\Debug\server.Form1.resources
+F:\车载控制器(VOBC)和区域控制器(ZC)通信模拟实验\server\server\server\obj\Debug\server.Properties.Resources.resources
+F:\车载控制器(VOBC)和区域控制器(ZC)通信模拟实验\server\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+F:\车载控制器(VOBC)和区域控制器(ZC)通信模拟实验\server\server\server\obj\Debug\server.exe
+F:\车载控制器(VOBC)和区域控制器(ZC)通信模拟实验\server\server\server\obj\Debug\server.pdb
+F:\车载控制器(VOBC)和区域控制器(ZC)通信模拟实验\server\server\server\obj\Debug\server.Form2.resources
